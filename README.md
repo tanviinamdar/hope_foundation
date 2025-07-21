@@ -64,4 +64,5 @@ hope-foundation/
 
 ## 🙌 Attribution
 
-This project is a design and development **academic exercise** for students. Images and text are placeholders and do not represent any actual NGO.
+This project is a design and development **academic exercise** for undergraduate students. Images and text are placeholders and do not represent any actual NGO.
+
